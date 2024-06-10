@@ -1,7 +1,7 @@
 {
   "name": "fe-test",
   "version": "0.1.0",
-  "homepage": "https://github.com/Indra-poudel/fe-test",
+  "homepage": "https://indra-poudel.github.io/fe-test",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5",
