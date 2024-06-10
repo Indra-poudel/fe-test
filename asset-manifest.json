@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Indra-poudel/fe-test/static/css/main.adb06a99.css",
+    "main.js": "/Indra-poudel/fe-test/static/js/main.a0d06f57.js",
+    "static/js/453.8836d401.chunk.js": "/Indra-poudel/fe-test/static/js/453.8836d401.chunk.js",
+    "index.html": "/Indra-poudel/fe-test/index.html",
+    "main.adb06a99.css.map": "/Indra-poudel/fe-test/static/css/main.adb06a99.css.map",
+    "main.a0d06f57.js.map": "/Indra-poudel/fe-test/static/js/main.a0d06f57.js.map",
+    "453.8836d401.chunk.js.map": "/Indra-poudel/fe-test/static/js/453.8836d401.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adb06a99.css",
+    "static/js/main.a0d06f57.js"
+  ]
+}
