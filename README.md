@@ -34,9 +34,6 @@ This is a simple React TypeScript application with Redux for state management an
 - Node.js (version 14 or later)
 - npm (version 6 or later)
 
-### Installation
+#### To Start
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/discount-code-app.git
-   ```
+` yarn start or npm start`
