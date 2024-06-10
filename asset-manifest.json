@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Indra-poudel/fe-test/static/css/main.adb06a99.css",
-    "main.js": "/Indra-poudel/fe-test/static/js/main.a0d06f57.js",
-    "static/js/453.8836d401.chunk.js": "/Indra-poudel/fe-test/static/js/453.8836d401.chunk.js",
-    "index.html": "/Indra-poudel/fe-test/index.html",
-    "main.adb06a99.css.map": "/Indra-poudel/fe-test/static/css/main.adb06a99.css.map",
-    "main.a0d06f57.js.map": "/Indra-poudel/fe-test/static/js/main.a0d06f57.js.map",
-    "453.8836d401.chunk.js.map": "/Indra-poudel/fe-test/static/js/453.8836d401.chunk.js.map"
+    "main.css": "/fe-test/static/css/main.adb06a99.css",
+    "main.js": "/fe-test/static/js/main.0d54b357.js",
+    "static/js/453.8836d401.chunk.js": "/fe-test/static/js/453.8836d401.chunk.js",
+    "index.html": "/fe-test/index.html",
+    "main.adb06a99.css.map": "/fe-test/static/css/main.adb06a99.css.map",
+    "main.0d54b357.js.map": "/fe-test/static/js/main.0d54b357.js.map",
+    "453.8836d401.chunk.js.map": "/fe-test/static/js/453.8836d401.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.adb06a99.css",
-    "static/js/main.a0d06f57.js"
+    "static/js/main.0d54b357.js"
   ]
 }
